@@ -1,6 +1,6 @@
 ### Hi there, I'm Kaan 👋
 
-## I'm a Sofware Developer in Test!
+## I'm a Software Developer In Test!
 
 - :dart: I’m currently working on Manual and Automation Testing!
 
